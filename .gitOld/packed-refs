@@ -1,0 +1,14 @@
+# pack-refs with: peeled fully-peeled 
+1428be21663f98663e4329f0a1fe6b2ae12dcb93 refs/remotes/origin/0.2_bump
+7054d5a9b5726d7508f1fd0649aabe4646aa324b refs/remotes/origin/add-body-maps
+38ddedb568b28b467995bcefcebc0865720a4c8e refs/remotes/origin/gh-pages
+ebe185eff6555192a62554570872c31e01dc8f9b refs/remotes/origin/main_thread_executor
+cdf0cd4916e0df8f06d0c9fefb665e2962c0d539 refs/remotes/origin/master
+4a641db8ba1d7b8cd7a258187d62e8ace7365c9c refs/remotes/origin/maven_central
+6493a14629394f32f98e2bf3e3df5610eaed1900 refs/remotes/origin/query_map
+739be69969cf068730dba1feb5715188d97b808f refs/remotes/origin/retrofit_2
+efb74878030e74eda74ba533d266b435c9798ea2 refs/tags/0.1
+92ed683daf51f736900045697805a19ef77325cc refs/tags/0.2.0
+cd4b14da6ccb6210e073d3f835a6f18fcf469d19 refs/tags/0.3.0
+714171638074dfc52e4dc7cfd491eda893364798 refs/tags/0.4.0
+cdf0cd4916e0df8f06d0c9fefb665e2962c0d539 refs/tags/0.4.1
